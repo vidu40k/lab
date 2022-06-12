@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\37544\source\repos\integ\integ\Source.cpp(22,29): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\37544\source\repos\integ\integ\Source.cpp(22,9): warning C4101: upperLim: неиспользованная локальная переменная
+C:\Users\37544\source\repos\integ\integ\Source.cpp(22,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\37544\source\repos\integ\integ\Source.cpp(22,19): warning C4101: lowerLim: неиспользованная локальная переменная
+C:\Users\37544\source\repos\integ\integ\Source.cpp(23,9): warning C4101: n: неиспользованная локальная переменная
+C:\Users\37544\source\repos\integ\integ\Source.cpp(186,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\integ\integ\Source.cpp(243,12): warning C4018: <=: несоответствие типов со знаком и без знака
+  integ.vcxproj -> C:\Users\37544\source\repos\integ\Debug\integ.exe

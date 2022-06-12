@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\37544\source\repos\poland\poland\Source.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\poland\poland\Source.cpp(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\poland\poland\Source.cpp(141,9): warning C4101: value: неиспользованная локальная переменная
+C:\Users\37544\source\repos\poland\poland\Source.cpp(448): warning C4715: isEquationRight: значение возвращается не при всех путях выполнения
+  poland.vcxproj -> C:\Users\37544\source\repos\poland\Debug\poland.exe

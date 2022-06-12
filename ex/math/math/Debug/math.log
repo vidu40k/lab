@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\37544\source\repos\math\math\Source.cpp(72,9): warning C4101: rez: неиспользованная локальная переменная
+C:\Users\37544\source\repos\math\math\Source.cpp(129,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\math\math\Source.cpp(186,12): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\37544\source\repos\math\math\Source.cpp(235): warning C4715: isValuesRight: значение возвращается не при всех путях выполнения
+  math.vcxproj -> C:\Users\37544\source\repos\math\Debug\math.exe
